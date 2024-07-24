@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "CamelCase with Random Suffix",
+    "description": "Replaces special characters with spaces, converts to camelCase, and appends a random number sequence to make the final output 30 characters long.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "inputString",
+        "displayName": "Input String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
